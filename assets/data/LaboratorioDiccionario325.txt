@@ -1,0 +1,514 @@
+﻿INF325
+ACTIVO CIRCULANTE: 
+En ocasiones "capital circulante". Suma de los activos disponibles (finan cieros, deudores y existencias). 
+ACTIVO FIJO TOTAL: 
+Incluye todos los bienes que han sido adquiridos para usarlos en la ope ración social y sin propósito de venderlos o ponerlos en circulación. 
+ACTIVO FINANCIERO: 
+Nombre genérico que se le da a las inversiones mobiliarias (acciones, obligaciones , bonos, etc). 
+ACTIVOS, OTROS:
+Son aquellos recursos y activos de la empresa no clasificados en los rubros anteriores, tales como: 
+inversiones en compañías afiliadas, derechos en sociedades de perso nas, deudores a largo plazo, activos intangibles, fluctuación de acciones y amortizaciones. 
+ACTIVO NETO: 
+Conjunto de capitales que pertenecen propiamente a la empresa, es decir, el importe en dinero que se recibiría al vender todo el activo. 
+ACTIVO SUBYACENTE: 
+Es el que sirve de base para una opción o contratos de futuro. 
+ACTIVOS TOTALES: 
+Representa la suma total de los rubros del activo de la empresa. 
+ACTIVO CIRCULANTE TOTAL: 
+Incluye aquellos activos y recursos de la empresa que serán realizados, vendidos o consumidos dentro del plazo de un año a contar de la fecha de los estados financieros. 
+AHORRO: 
+Parte disponible de la renta (presente), que no se consagra a la compra inmediata o próxima de bienes de consumo. 
+ACCION: 
+Título que representa los derechos de un socio sobre una parte del capi tal de una empresa organizada en forma de sociedad. La posesión de este documento le otorga al socio capitalista el derecho a percibir una parte proporcional de las ganancias anuales de la sociedad. Las accio nes pueden ser nominativas o al portador, ordinarias o preferentes. 
+ACCIONISTA: 
+Propietario de una o más acciones de una sociedad anónima o en comandita por acciones. 
+ACEPTACIONES BANCARIAS: 
+Operación comercial en la cual el vendedor que se denomina "beneficia rio" ve garantizado por una entidad financiera denominada "aceptante", el pago de una letra de cambio girada por el comprador para pagar las mercancías adquiridas. La entidad financiera está comprometida, en pri mera instancia, a pagar el 100% de la letra a su vencimiento. 
+ACTIVOS DE RENTA FIJA: 
+Títulos que permiten conocer la rentabilidad de la inversión antes del momento de la redención, ya que este monto no depende del desempe ño de la entidad emisora. Ejemplo: bonos. 
+ACTIVOS DE RENTA VARIABLE: 
+Títulos valores que por sus características solo permiten conocer la ren tabilidad de la inversión en el momento de su redención, dependiendo del desempeño de la entidad emisora entre otras. Ejemplo: Acciones. 
+ACTIVOS FIJOS: 
+Activos tangibles o intangibles que se presume son de naturaleza per manente porque son necesarios para las actividades normales de una compañía y no serán vendidos o desechados en el corto plazo, ni por razones comerciales. 
+ACTIVO FIJO: 
+Representa los recursos de naturaleza relativamente duradera, que no están destinados a la venta dentro del giro ordinario del negocio. 
+ACTIVO CORRIENTE: 
+Son los recursos que se pueden convertir en efectivo, vender o consumir durante un ciclo normal de operaciones contables correspondientes a un año. 
+ACTIVO FINANCIERO: 
+Cualquier título de contenido patrimonial, crediticio o representativo de mercancías. 
+ACTIVO FISICO: 
+Todo objeto o bien que posee una persona natural o jurídica, tales como maquinarias, equipos, edificios, muebles, vehículos, materias primas, productos en proceso, herramientas, etc. 
+ACTIVO REAL: 
+Sinónimo de activo físico. 
+ACTIVO LIQUIDO: 
+Activo que puede transformarse rápidamente en dinero sin pérdida de valor. 
+Mientras más rápido se puede convertir un activo en dinero, se dice que es más líquido o que tiene mayor grado de liquidez. 
+El Dinero es el activo más líquido de todos. 
+ACTIVO INTANGIBLE: 
+Esta categoría incluye: a. Bienes económicos inmateriales de propiedad de una persona, empresa u organización, tales como patentes, marcas, derechos de llave, etc. 
+b. El Derecho de uso o de usufructo que posee una persona, empresa u organización sobre bienes económicos, materiales, derecho que no puede ser transferido. 
+ADUANA: 
+Servicio gubernamental responsable de la valuación y cobranza de los derechos e impuestos por importaciones y exportaciones, y de la aplica- 
+ción de otras leyes y reglamentos que se aplican a la importación, trán sito y exportación de artículos. 
+AHORRO 1:
+Parte del ingreso disponible presente de una gente económico que no es gastado en consumo, requiere suprimir un consumo actual y diferirlo para algún momento en el futuro.
+El ahorro puede adoptar las siguientes formas: a. Acumulado de saldos monetarios o dinero (atesoramiento).
+b.	Acumulado de activos financieros o de activos reales.
+c.	Acumulado de capital humano.
+Un agente económico puede emplear los flujos de recursos ahorrados en mantener o aumentare su nivel de consumo de bienes o servicios, en mantener la capacidad de generar ingresos de sus actividades o factores productivos, o en aumentar esa capacidad (inversión).
+AHORRO 2:
+Parte del ingreso (nacional, familiar o personal) que no se destina a la compra de bienes de consumo. El ahorro se obtiene restándole a los ingresos totales el gasto total en consumo. De esta forma, Ahorro = Ingresos - Gastos. El ahorro privado lo llevan a cabo las unidades familiares y las empresas, mientras que el ahorro público lo realiza el gobierno.
+AHORRO FINANCIERO:
+Conjunto de activos rentables emitidos, tanto por el sistema financiero como por el Gobierno, que han sido acumulados a través del tiempo. El ahorro financiero se calcula como M3 + Bonos.
+AMORTIZACION:
+Reducciones graduales de la deuda a través de pasos periódicos sobre el capital prestado.
+Recuperación de los fondos invertidos en un activo de una empresa.
+O también puede definirse como: la devolución de una deuda o de un capital tomado en préstamo (principal) más los intereses correspondientes si ellos existen. La extinción de la deuda puede hacerse de una sola vez o mediante pagos parciales por periodos de tiempo previamente establecidos.
+ANTIDUMPING:
+Acción encaminada a proteger los mercados interiores de la competencia desde el exterior.
+AÑO BASE:
+Es el año de referencia al que se asigna un valor de cien cuando se construye un índice de precios u otra serie de tiempo.
+AÑO FISCAL:
+Periodo para el que se preparan los presupuestos de ingresos y gastos de la administración y en el que se devengan los impuestos.
+AÑO GRAVABLE:
+Es el mismo año calendario que comienza el primero de enero y termina el 31 de diciembre, pero puede comprender lapsos menores aplicables a sociedades que se constituyan o liquidan dentro del año y a extranjeros que lleguen al país o se ausenten de él en el respectivo año gravable.
+APERTURA ECONOMICA:
+Es un proceso dinámico de modernización para lograr una mayor eficiencia en la producción que a su vez permita producir y exportar a menor costo, ser competitivos en los mercados internacionales, hacer más rica la economía y así generar más empleos.
+Es también la internacionalización de la economía para producir y exportar más a menores costos e importar con el criterio de regular los precios de la industria nacional.
+A través de este proceso se pretende acelerar el mejoramiento del bienestar de la población.
+La apertura busca modernizar la industria y demás sectores en sus procesos productivos y tecnificar y llegar al consumidor local con productos de buena calidad, cuyos precios se asemejen a los del mercado internacional.
+El grado de apertura de una economía se mide por la relación M/PIB.
+M=Importaciones.
+PIB=Producto Interno Bruto.
+ARANCEL 1:
+Es un impuesto o gravamen que se aplica a toda mercancía que cruza una frontera por una zona aduanera.
+a.	Sinónimo de Tarifa. Es el impuesto a pagar por la importación definiti-va de un bien.
+b.	Se emplea también para referirse al texto que contiene la totalidad delos impuestos a las importaciones de bienes de un país.
+ARANCEL 2:
+Impuesto o derecho que se cobra a los bienes de importación.
+Generalmente, el término "derecho arancelario" indica la clasificación exacta de la mercancía, y por ende, la tasa que debe pagar una mercancía por entrar o salir de un país. Por su parte, la palabra "arancel" es utilizada para denotar la lista de mercancías con sus respectivos derechos aduanales, que serán pagados al gobierno por parte de los importadores de los productos.
+ARRENDAMIENTO:
+Contrato en que una de las partes, el arrendador, transfiere por un determinado periodo de tiempo, el derecho de utilizar un activo físico o de un servicio a la otra parte, el arrendatario, quien a su vez debe pagar por la cesión temporal de ese derecho un precio previamente estipulado entre ellos.
+AVAL:
+Garantía de pago que otorga un tercero extraño en una letra de cambio o en un pagaré.
+El avalista generalmente responde del pago en las mismas condiciones que el librador y los endosantes en la letra y del deudor principal en el pagaré.
+BALANZA CAMBIARIA:
+Instrumento de descripción a corto plazo del sector externo. Se puede definir como el registro de las transacciones del Banco de la República con los activos de reservas internacionales, y otros pasivos y activos externos de corto y mediano plazo. Puesto que estos valores constituyen la disponibilidad de liquidez en moneda extranjera del banco central, puede decirse también que la balanza cambiaria es la contabilidad de caja en moneda extranjera de dichas institución.
+BALANZA COMERCIAL:
+Parte de la Balanza de Pagos que registra sólo las transacciones de bienes de un país con el resto del mundo durante un periodo determinado. Cuando el valor de las importaciones excede el valor de las exportaciones, se dice que la balanza comercial está en déficit. Cuando la situación es a la inversa, se dice que la balanza comercial tiene superávit.
+BALANCE CONTABLE:
+Estado contable que muestra el total de activos, el total de pasivos y el patrimonio de una empresa en un momento del tiempo.
+La hoja de balance a su lado derecho muestra los activos, y en su lado izquierdo los pasivos y el patrimonio, debiendo cumplirse siempre la misma igualdad.
+ACTIVOS = PASIVOS + PATRIMONIO.
+Un balance es entonces un demostrativo contable del estado patrimonial de la situación económica financiera de una empresa, siempre referente al fin de un ejercicio fiscal BALANZADE PAGOS:
+Cuenta del sector externo del sistema de Cuentas Nacionales, expresada en dólares, donde se registran las transacciones económicas de un país con el exterior. Entre estas se encuentran las transacciones de compra y venta de mercancías, los movimientos de capital y las transferencias. Además, sintetiza los cambios en la posición financiera de los residentes de un país frente a los no residentes. La Balanza de Pagos está compuesta por la Cuenta Corriente, por la Cuenta de Capitales, el movimiento en las Reservas Internacionales y un renglón donde se anotan los errores y omisiones.
+BALANZA DE SERVICIOS:
+Registro sistemático de la entrada y salida de divisas de un país por concepto de prestación de servicios de los residentes del país a los extranjeros, y de estos a los nacionales. La Balanza de Servicios hace parte de la Cuenta Corriente, y en ella se incluyen como servicios los ingresos netos precedentes del exterior (embarques, viajes, dividendos e intereses provenientes de inversiones directas o de cartera entre otros).
+BALANCE GENERAL:
+Denominado también estado de situación financiera. Se trata de un documento que muestra el valor y la naturaleza de los recursos económicos de una empresa, así como los intereses conexos de los acreedores y la participación de los dueños en una fecha determinada.
+BANCO:
+Institución que realiza labores de intermediación financiera, recibiendo dinero de unos agentes económicos (depósitos), para darlo en préstamo a otros agentes económicos (créditos).
+La ley define las operaciones que puede realizar un banco y prohíbe el uso de esta denominación a otras instituciones o empresas. Los principales tipos de bancos son: bancos comerciales, bancos de fomento y bancos hipotecarios.
+BANCO COMERCIAL:
+Institución que se dedica al negocio de recibir dinero en depósito y darlo a su vez en préstamo, sea en forma de mutuo, de descuento de documentos o en cualquier otra forma. Se consideran además todas las operaciones que natura l y legalmente constituyen el giro bancario.
+BANDA CAMBIARIA:
+Son los límites establecidos por las autoridades económicas dentro de los cuales se deja fluctuar la tasa de cambio (Tasa Representativa del Mercado-TRM). A partir del nivel máximo (techo), el Banco de la República vende dólares para que el tipo de cambio no supere ese nivel. Por su parte, a partir del valor mínimo (piso), el Banco compra dólares para que el tipo de cambio no se sitúe por debajo de ese nivel. Tanto el piso como el techo de la banda varían todos los días dependiendo de la pendiente de la misma. En Colombia, la banda cambiaria tiene una amplitud desde su punto medio de 7% hacia arriba y hacia abajo, respectivamente. La pendiente de la banda equivale al porcentaje anual de devaluación que se aplica tanto al piso como al techo de la banda.
+BANDAS CAMBIARIAS:
+Es un tipo de arreglo cambiario que se ha popularizado desde la caída de Bretón Woods, en donde el sistema de banda cambiaria o de zona, constituyen un objetivo en el manejo de la tasa de cambio en el cual el Banco central se compromete a defender el valor de la moneda dentro de unos rangos predeterminados. Los argumentos para defender este tipo de esquema se basan en la idea de que este permite mantener algún grado necesario de flexibilidad, y elimina o reduce la posibilidad de especulación desestabilizadora que caracterizó la dinámica de la tasa de cambio durante la década de los años 80. Lflexibilidad es necesaria para asegurar algún grado de autonomía monetaria en un contexto de choque continuo, mientras que alguna rigidez también es necesaria para "anclar" expectativas.
+BASE MONETARIA:
+Conocida también como dinero de alto poder expansivo; es el efectivo más las reservas que mantienen los bancos en el Banco Central. Este agregado monetario también se puede interpretar como el conjunto de obligaciones monetarias adquiridas por el Banco Central con el público en general y el sistema financiero.
+BENCHMARK:
+Punto de referencia estándar reconocido de excelencia contra el cual los procesos son medidos y comparados.
+El proceso de Benchmarking, se entiende como un proceso de medición continuo y de análisis que comparan prácticas, procesos o metodologías internas contra otras organizaciones.
+BENEFICIARIO:
+Persona a la cual se transfiere un activo financiero o a favor de quien se emite un título o un contrato de seguro.
+BENEFICIO:
+Hay que distinguir entre el efecto contable y el de la teoría económica. Contablemente se define beneficio bruto como los ingresos totales menos los gastos directos para producir esos ingresos , tales como salarios, sueldos, materias primas, etc.
+El beneficio neto es igual al beneficio bruto menos los gastos de depreciación, intereses, impuestos y otros gastos indirectos.
+Este último es sinónimo de ingreso neto.
+El concepto económico de beneficio equivale a la fracción del producto que queda después de deducir los pagos al factor capital (intereses), los pagos al factor tierra (rentas) y los pagos al factor trabajo (salarios). El beneficio debe ser un monto suficiente para inducir a un empresario a permanecer en la misma actividad; es decir, es equivalente al costo de oportunidad y permanecer en la actividad.
+BID:
+Banco Interamericano de Desarrollo BIEN:
+El concepto de bien en economía es muy amplio y no se limita a objetos tangibles.
+No obstante hay que distinguir 2 acepciones del término: a. Razones prácticas restringen el uso del concepto refiriéndolo a todo objeto corporal o tangible que satisface alguna necesidad, sea esta individual o colectivo a través de su uso o consumo.
+De esta forma se puede hablar los bienes como algo distinto de los servicios, a pesar de que los últimos también satisfacen necesidades y contribuyen al bienestar.
+b. El concepto teórico se refiere a cualquier cosa, tangible o intangible, que satisfaga alguna necesidad o que contribuya al bienestar de los individuos.
+BIEN DURADERO:
+Bien que no se consume inmediatamente y que dura un largo tiempo prestando, sucesivamente y muchas veces, el servicio para el que fue creado.
+BIEN NO DURADERO:
+Aquel que se consume inmediatamente o en corto plazo. Se emplea una o varias veces y su duración depende del uso y del material de que esté fabricado.
+BIENES DE CAPITAL:
+Son aquellos bienes que se utilizan para la producción de otros, y no satisfacen las necesidades del consumidor final. Entre estos bienes se encuentran la maquinaria y equipo.
+BIENES DE CONSUMO:
+Bienes destinados a satisfacer las necesidades del consumidor final doméstico y que están en condición de usarse o consumirse sin ninguna elaboración comercial adicional.
+BIENES INTERMEDIOS:
+Corresponden a bienes de capital, y se denominan así por el hecho, de servir a los consumidores de forma indirecta en la satisfacción de sus necesidades, ya que representan etapas intermedias en los procesos productivos. También conocidos como materias primas o insumos.
+BIENES NO TRANSABLES:
+Bienes cuyo consumo sólo se puede hacer dentro de la economía en que se producen, no pueden importarse ni exportarse. Esto se debe a que estos productos tienen costos de transporte muy altos o existe en la economía un alto grado de proteccionismo.
+BIENES TRANSABLES:
+Aquellos bienes que se pueden consumir dentro de la economía que los produce, y se pueden exportar e importar. Generalmente, tienen bajos costos de transporte y pocos aranceles y cuotas de importación que puedan bloquear el libre flujo de bienes a través de las fronteras nacionales.
+BROKER:
+Corredor de comercio que negocia títulos y efectúa descuentos de efectos.
+BOLSA DE VALORES:
+Establecimiento privado autorizado por el Gobierno Nacional donde se reúnen los miembros que conforman la Bolsa, con el fin de realizar las operaciones de compra-venta de títulos valores, por cuentas de sus clientes, especialmente.
+Sitio público donde se realizan las funciones de la Bolsa o se efectúan las operaciones de la misma.
+BONO:
+Activo de Renta Fija pagadero al portador, en el cual va estipulado el valor que debería pagar quien emitió el título, al cumplirse la fecha de su vencimiento. Genera intereses sobre el valor nominal, que se pagan de la forma en que se ha definido en el contrato.
+BOOM:
+Periodo durante el cual los precios y la demanda de bienes y servicios aumentan rápidamente.
+Acompañado por lo general de un incremento en la oferta de empleos.
+BURGUESIA:
+Antes de Marx el término se uso para nombrar a la clase mercantil de cualquier país.
+El marxismo se adueñó del término para referirse a la clase de todos aquellos miembros de la sociedad que poseen los medios de producción, incluida la tierra.
+CAJA AGRARIA:
+La caja es una entidad que además de apoyar económicamente a los sectores agrícola, industrial y minero, cumple una importante labor social y educativa a través de programas específicos de transferencia tecnológica apropiada a su condición empresarial: subsidio familiar para los trabajadores del sector rural y otros sectores de la economía nacional, actuando como caja de compensación.
+CALIFICACION DE RIESGO DE CORTO PLAZO:
+Análisis que tiene como objetivo el evaluar en el corto plazo, la capacidad de un establecimiento especializado en una actividad comercial o industrial definida (venta de alimentos, vestuario, vehículos, etc.) para servir adecuadamente sus créditos.
+CANJE DE CHEQUE:
+Periodo en el cual un cheque está en proceso de transferencia de fondos interbancarios o de compensación.
+CANJE:
+Trueque o cambio de alguna cosa, en particular el que se realiza cuando los poseedores de títulos valores los cambian por otros de distintas características y emisiones.
+CAPITAL 1:
+Stock de recursos disponibles en un momento determinado para la satisfacción de necesidades futuras. Es decir, es el patrimonio poseído susceptible de generar una renta. Constituye uno de los tres principales elementos que se requieren par a producir un bien o servicio.
+CAPITAL 2:
+Es la suma de todos los recursos, bienes y valores movilizados para la constitución y puesta en marcha de una empresa.
+Es su razón económica.
+Cantidad invertida en una empresa por los propietarios, socios o accionistas.
+CAPITAL A CORTO PLAZO:
+Operaciones con activos y pasivos financieros, cuyos términos de vencimiento son inferiores a un año. El capital a corto plazo del sector privado comprende el endeudamiento comercial externo directo y los movimientos de las cuentas corrientes en el extranjero de las empresas nacionales. Y en el sector público se incluyen, entre otros, los movimientos de compensación y los cambios en la posición financiera de algunas entidades descentralizadas.
+CAPITAL A LARGO PLAZO:
+Comprende las operaciones con activos y pasivos financieros cuyo vencimiento original es superior a un año, desagregadas en inversión directa, inversión de cartera y otros capitales.
+CAPITAL DE RIESGO:
+Fondos que un inversionista adopta colocar en empresas, transacciones o instrumentos de alto riesgo, para lograr sobre los mismos un rendimiento mayor que el corriente.
+CAPITAL FIJO:
+Capital invertido, normalmente los poseedores de acciones y bonos, distinto de capital circulante, suministrando parcialmente por los bancos.
+CAPITAL HUMANO:
+Conjunto de conocimientos, entrenamiento y habilidades poseídas por las personas que las capacitan para realizar labores productivas con distintos grados de complejidad y especialización.
+Al igual que la creación del capital físico, la acumulación de capital humano en las personas requiere de un periodo de tiempo para adquirir ciertas destrezas, permitiéndoles incrementar los flujos de ingresos que ellos ganen.
+La inversión en capital humano se realiza a través de gastos en educación, especialización laboral, nutrición y salud.
+CAPITAL RIESGO:
+Capital que no está garantizado por un gravamen o hipoteca.
+O equivale también a la reinversión del dinero de los accionistas. Son fondos invertidos en empresas que generalmente no tienen acceso a las fuentes de capital convencionales.
+CAPTACION DE RECURSOS:
+Proceso a través del cual un intermediario financiero recibe recursos por parte de individuos, a cambio de la adquisición de deudas u obligaciones.
+CARTERA:
+Conjunto de valores o productos bursátiles que posee un agente económico.
+CARTERA:
+Posesión de títulos por un individuo o por una institución. La cartera puede incluir bonos, acciones, certificados de depósitos bancarios, oro, entre otros.
+CEDULAS HIPOTECARIAS:
+Título con un valor nominal pagadero en el futuro en una fecha determinada, que rinde una tasa de interés periódica y es vendido por quien lo emite. En Colombia el Banco Central Hipotecario es el encargado de la emisión de las cédulas, y lo hace con un descuento sobre su valor nominal. Adicionalmente, estos títulos son sorteados, y en cada sorteo salen beneficiadas con una amortización una serie de cédulas.
+CERTIFICADOS DE DEPOSITO A TERMINO (CDT):
+Instrumento de captación de ahorro nominal, de libre negociación. Los
+C D T pueden ser emitidos por las Compañías de Financiamiento Comercial y por las Corporaciones Financieras y su plazo de vencimiento puede ir desde 30 días hasta más de 360 días.
+CESANTIA:
+Aún cuando se emplea este término como sinónimo de desempleo, estrictamente se refiere al conjunto de personas que han perdido su ocupación y buscan un nuevo trabajo.
+Por lo tanto no incluye a las personas que buscan trabajo por primera vez.
+Generalmente la cesantía se expresa como un porcentaje de la fuerza laboral del país.
+CLEARING:
+Acuerdo comercial entre dos o más países por el que se compensan las importaciones y las exportaciones con el fin de alcanzar el equilibrio de intercambio entre ambos.
+CHEQUE:
+Orden escrita y girada contra un Banco Comercial para que este pague, a su presentación, el todo o parte de los fondos que el librador pueda disponer en cuenta corriente.
+El cheque puede ser a la orden, al portador, nominativo y estar girado al nombre del librador o de una tercera persona.
+CHEQUE CERTIFICADO:
+Cheque de un cuentahabiente girado sobre un banco, en cuya cara el banco ha puesto la palabra "certificado" con la fecha y firma de un signatario autorizado por el banco.
+El cheque se convierte, entonces, en una obligación en el banco. En algunos países la ley limita la duración de este compromiso.
+CHEQUE DE GERENCIA - CHEQUE DE CAJA:
+Un cheque girado pos un banco sobre sí mismo o por un banco sobre otro.
+CHEQUE VIAJERO:
+Un cheque emitido por bancos o instituciones especializadas que compra una persona y cuyo pago se garantiza bajo ciertas condiciones.
+CLIMA ECONOMICO:
+Grado de riesgo asociado a las inversiones en los mercados de productos financieros.
+COBERTURA:
+Acción de proveer los fondos para el pago de un documento, cautelándose de una responsabilidad.
+Otra acepción del término se refiere a la amplitud de una determinada política o a la medida en que sus objetivos son alcanzados.
+COBERTURA:
+Técnica mediante la cual se intenta reducir el riesgo de pérdida debido a movimientos desfavorables del mercado. Consiste en tomar una posición a plazo opuesta a otra posición existente o prevista sobre el mercado a contado.
+COBRO:
+Es la acción inmediata por la cual se pretende obtener la satisfacción de una obligación cualquiera que fuere esta.
+COEFICIENTE EXPORTADOR:
+Proporción de la producción que se exporta. El indicador se calcula como el valor de las exportaciones sobre la producción.
+COEFICIENTE IMPORTADOR:
+También conocido como Indice de Penetración de Importaciones, es la proporción del consumo doméstico que se importa. Este indicador se calcula como el valor de las importaciones sobre la suma de la producción doméstica más importaciones menos exportaciones COEFICIENTE DE GINI:
+Medida de la desigualdad de la desigualdad que se deriva de la Curva de Lorenz.
+Es el área entre la curva y la recta diagonal dividida por el total del área bajo la recta diagonal.
+Fluctúa entre cero (sino hay desigualdad y la curva de Lorenz corresponde la recta diagonal) y uno (desigualdad completa, con la curva de Lorenz extendiéndose sobre el eje horizontal).
+COLOCACIÓN DE RECURSOS:
+Proceso en el que se utilizan los recursos que fueron adquiridos durante el proceso de captación, para extender créditos a algún otro agente.
+COMERCIALIZACION:
+Proceso cuyo objetivo es hacer llegar los bienes desde el productor al consumidor.
+Involucra actividades como compraventas al por mayor y al por menor, publicidad, pruebas de ventas, información de mercado, transporte, almacenaje y financiamiento.
+COMERCIO EXTERIOR:
+Intercambio de bienes, servicios entre países.
+COMERCIO INTERIOR:
+Comercio entre un comprador y un vendedor residentes en el mismo país. Es el opuesto entre comercio exterior o internacional.
+COMISION:
+Retribución que da un inversionista a un comisionista por ejecutar una orden de compra y venta de los valores negociables en Bolsa, por asesorarlo en la misma o por administrar los valores del cliente, según sea la solicitud del mismo.
+COMISION NACIONAL DE VALORES:
+Organismo creado por el congreso de la República mediante la Ley No.
+32 de 1979, vinculado al Ministerio de Hacienda y Crédito Público que tiene por objeto estimular, organizar y regular el Mercado Público de Valores.
+COMISIONISTA DE BOLSA:
+Es la persona legalmente autorizada para realizar las transacciones de compra y venta de valores que se realizan en la rueda de Bolsa.
+COMMODITIES:
+Bienes primarios que se transan internacionalmente. Por ejemplo: granos, metales, productos energéticos (petróleo, carbón, etc.) y suaves (café, algodón, etc.).
+COMPAÑIA DE SEGUROS:
+Sociedad anónima que tiene por objeto exclusivo el giro de los seguros y las actividades que sean afines y complementarias de éste. Se dividen en seguros generales y de vida.
+COMPAÑIAS DE FINANCIAMIENTO COMERCIAL:
+Son aquellas instituciones que tienen por función principal captar recursos mediante depósitos a término, con el objeto primordial de realizar operaciones activas de crédito para facilitar la comercialización de bienes y servicios (Art.92,L45/90). Estas compañías están vigiladas por la Superintendencia Bancaria y necesitan para su constitución un capital mínimo de mil quinientos millones de pesos.
+COMPAÑIAS DE SEGUROS:
+son instituciones financieras especializadas en asumir riesgos de terceros mediante la expedición de pólizas de seguros.
+Vigilancia y control = Superintendencia Bancaria. 
+Clases - Generales=
+Cubren riesgos tales como hurto, robo, incendio, transporte, lucro cesante, etc.
+- Vida=
+Cubren riesgos tales como la muerte individual o colectiva, accidentes personales, hospitalización, cirugía, etc.
+Valor de las pólizas=
+El valor que se cobra por la protección se denomina prima y está en función del riesgo que asume al expedir la póliza respectiva. Las tasas antes del nuevo modelo aperturista no se establecían libremente, sino que eran reguladas por la Superintendencia Bancaria.
+Partes que intervienen en un contrato de seguros=
+El tomador =
+Persona que traslada los riesgos.
+-	El asegurado =
+La persona cuya vida o patrimonio se asegura.
+-	La empresa aseguradora =
+Se encarga de asumir los riesgos.
+COMPENSACION:
+Indemnización pecunaria o en especie que otorga el causante de un daño o detrimento de patrimonio.
+Modo de distinguir obligaciones vencidas, cumplideras en dinero o en cosas fungibles, entre personas que son recíprocamente acreedoras y deudoras; consiste en dar una por pagada la deuda de cada uno en cuantía igual a la de su crédito hasta la cantidad concurrente.
+En términos bancarios, intercambio de cheques, letras u otros instrumentos financieros que estando en posesión de alguna entidad financiera o bancaria aparezcan girados contra otra, con liquidación periódica de los créditos débitos recíprocos.
+COMPLETELY KNOCKED DOWN (CKD):
+Material del sector automotriz desarmado para ensamble.
+COMPRAVENTA:
+Contrato por el cual una parte (vendedor) se obliga a entregar a la otra parte (comprador) una cosa y transmitirle su dominio, y el adquiriente a su vez obliga a pagar cierto precio en dinero.
+COMUNIDAD EUROPEA (CE):
+Establecida por el Tratado de Roma en 1957 suscrito por Francia,
+Alemania Occidental, Italia, Holanda y Luxemburgo al que posteriormente se adhirieron Gran Bretaña, Dinamarca e irlanda.
+Su objetivo inicial era crear una Unión Aduanera o Mercado Común, para lo cual se comenzó eliminando los obstáculos al comercio de bienes y servicios entre sus miembros, estableciendo una política de comercio externo.
+Persigue también la creación de una unión económica en la exista libre desplazamiento de bienes y servicios, capital y trabajo. Bajo el Tratado se formó el banco Europeo de Inversiones que se ocupa de fomentar el desarrollo de las regiones más atrasadas, y el Fondo Social Europeo que se encarga de problemas de empleo entre otros. Se consulto un plazo de transición de 12 años para el establecimiento del mercado común, dividido en tres etapas de cuatro años cada una para la abolición, arancel externo común, objetivos que se alcanzaron en 1968, antes de la fecha inicialmente prevista.
+En otros aspectos, como el establecimiento de políticas agrícolas y de transporte comunes, las CE, ha tenido dificultades debido a la oposición de intereses de algunos países miembros.
+En los últimos años se ha constituido como un bloque comercial de los más importantes en el mundo, los últimos países en integrar Autoliquidación de Aportes cuerdo son : España y Portugal.
+COMUNISMO:
+"Un sistema social, sin clases, con una forma de propiedad pública de los medios de producción y toral igualdad para todos los miembros de la sociedad y donde el gran principio : de cada uno según su capacidad, a cada uno según necesidades", será implantado (22o congreso del P.C.S).
+CONCILIACION BANCARIA:
+Proceso Sistemático de comparación entre los ajustes contable de una cuenta corriente realizada por el banco y la cuenta de bancos correspondientes en la contabilidad de una empresa, con una explicación de las diferencias encontradas.
+CONSUMIDOR:
+Todo agente económico que demanda bienes y servicios de consumo para satisfacer alguna necesidad específica.
+CONSUMO 1:
+Acción por la cual los diversos bienes y servicios son usados o aplicados a los fines a que están destinados, ya sea satisfaciendo las necesidades de los individuos o sirviendo los propósitos de la producción. La economía considera el consumo como el fin esencial de la actividad económica.
+Consumo es la utilización de bienes y servicios para nuestra satisfacción y la de otros.
+CONSUMO 2:
+Acto final del proceso económico, que consiste en la utilización personal y directa de los bienes y servicios productivos para satisfacer necesidades humanas. El consumo puede ser tangible (consumo de bienes) o intangible (consumo de servicios). Además, se puede clasificar de acuerdo a quien realice el acto en privado y pública. El consumo privado es el realizado por las familias y las empresas, y el público es hecho por el gobierno.
+CONTABILIDAD:
+Es un sistema de información basado en el registro, clasificación, medición y resumen de cifras significativas que expresadas básicamente en términos monetarios, muestra el estado de las operaciones y transacciones realizadas por un ente económico contable. CONTINGENTES:
+En comercio internacional, un método para proteger la industria nacional de la competencia exterior o para reducir la presión en la balanza de pagos limitando las importaciones. Con fines proteccionistas, el contingente es más seguro que el arancel o tarifa en sus efectos sobre la cantidad de importaciones.
+CONTRAPARTIDAS DE LA MASA MONETARIA:
+Conjunto de deudas debidas al sistema bancario, en contrapartida de las cuales se crea moneda. Se distinguen tres tipos:
+las operaciones sobre oro y divisas, que corresponden a la creación de dinero en los pagos al extranjero; las operaciones de deudas sobre el tesoro público, que corresponden a la creación de moneda para financiar parte del déficit presupuestario, y las operaciones de crédito a la economía, que corresponden a la financiación monetaria del cr& eacutedito. Este tipo de creación monetaria es la fuente principal del incremento de la masa monetaria.
+CONTRATO 1:
+Es un acto por el cual una parte se obliga para con otra dar, hacer o no hacer, alguna cosa.
+CONTRATO 2:
+Acuerdo de voluntades entre dos o más personas que se obligan a dar y hacer algunas cosas o realizaciones conjuntas.
+Lo normal es que, mediante procedimientos legales, las partes que han sumido una obligación contractual pueden ser forzadas a su cumplimiento.
+Desde un punto de vista económico, el contrato establece pautas reguladoras de conducta para los agentes económicos, reduciendo los riesgos de las actividades.
+CONTRIBUCION:
+Es el tributo cuya obligación tiene como hecho generador, beneficios derivados de la realización de obras públicas o de actividades estatales y cuyo producto debe tener un destino ajeno a la financiación de la s obras o actividades que constituyen el presupuesto de la obligación.
+CONTRIBUYENTE:
+Es el sujeto respecto de quien se realiza el hecho generador de la obligación sustancial.
+COOPERATIVA:
+Organización empresarial que tiene por objetivo el beneficio de las personas que componen, y que se caracteriza por cada miembro, tiene un voto al margen del capital o aporte que tenga en la cooperativa. Esta forma de organización permite unir a personas de pocos recursos que se encuentran en una situación similar para aprovechar las ventajas de una operación más eficiente en mayor escala.
+Los cooperados, son a su vez dueños y administradores de la cooperativa, y las ganancias, son distribuidas entre ellos en proporción a sus aportes.
+Los tipos de Cooperativa, más conocidas son las agrícolas, de comercialización, de consumo, de crédito y de productos.
+CORPORACIONES DE AHORRO Y VIVIENDA:
+Institución financiera que tiene como función promover el ahorro privado y llevarlo hacia la industria de la construcción a través de créditos hipotecarios. La captación de los recursos se hace a través de las cuentas de ahorro, de los depósitos ordinarios y de los certificados de depósito a término.
+CORPORACIONES FINANCIERAS:
+Según la definición legal (ley 45/90) son aquellas instituciones financieras que tienen por función principal la captación de recursos a término, a través de depósitos o de instrumentos de deuda a plazo, con el fin de realizar operaciones activas de crédito y efectuar inversiones, con el objeto primordial de fomentar o promover la creación, reorganización, fusión, transformación y expansión de empresas.
+CORRECCION MONETARIA 1:
+Corresponde a la diferencia entre la revalorización de los activos sujeto a corrección monetaria y la revalorización del capital propio financiero.
+CORRECCION MONETARIA 2:
+Tratándose de obligaciones dineradas, consiste en el procedimiento mediante el cual se restablece el poder adquisitivo de la moneda. Se calcula como el promedio aritmético simple del valor de la DTF para las cuatro o cinco semanas de cada mes, multiplicada por 74%. La corrección monetaria se aplica a los depósitos y préstamos de las corporaciones de ahorro y vivienda.
+CORPORATIVISMO:
+Doctrina que justifica la organización del sistema económico por medio de asociaciones de trabajadores, empresarios, profesionales, etc.; subordenados de algún modo al poder político que integrarían. Esta organización haría inútil o superfluo cualquier otro tipo de institución política parlamentaria.
+COST INSURANCE FREIGHT (CIF):
+Abreviatura usada en algunos contratos internacionales de venta, cuando el precio de la misma incluye "costos, seguros y fletes" de los artículos vendidos. Esto significa que el vendedor costea todos los gastos relacionados con el envío de la mercancía desde su punto de exportación hasta cualquier punto de importación. En Colombia, las importaciones se calculan a precios CIF.
+COSTO 1:
+Es un gasto, erogación o desembolso en dinero o especie, acciones de capital o servicios, hecho a cambio de recibir un activo. El efecto tributario del término costo (o gasto) es el de disminuir los ingresos para obtener la renta.
+COSTO 2:
+En un sentido amplio, es la medida de lo que se debe dar o sacrificar para obtener o producir algo.
+COSTO DE VIDA 1:
+Costo monetario de lo necesario para mantener un cierto nivel de vida dentro de un grupo de la población.
+COSTO DE VIDA 2:
+Promedio de los precios al por menor de todos los bienes y servicios necesarios para un nivel de vida fijo.
+COSTO FIJO:
+Costo que en el coto plazo permanece constante cuando la cantidad producida se incrementa o disminuye, dentro de ciertos rangos de producción-.
+Algunos de estos costos se presentan aunque no se produzca nada.
+COSTOS DE EXPLOTACION:
+Costo de los productos vendidos que se determine de acuerdo con el sistema de costos seguido por la empresa.
+COSTOS INDIRECTOS:
+Costos normalmente de difícil identificación o resultado de bienes y servicios aplicables a la actividad en general.
+Incluyen costos de operaciones de manufacturas (mantenimiento, gastos generales, etc.) COTIZACIÓN:
+Precio registrado en una Bolsa cuando se realiza una negociación de valores, o también expresión de uso bursátil para señalar el valor de acciones y otros instrumentos que se venden a través de bolsas de comercio. La cotización puede ser:
+Transacción (T) último precio de venta en transacciones hechas en bolsas el día de cierre; Nominal (N) precio de transacción anterior al día de cierre, si posteriormente no ha habido ventas, ni ofertas, a precio diferente; Vendedor (V) precio al cual los instrumentos están siendo ofrecidos a la hora del cierre; Comprador (C) precios al cual existe oferta de compra a la hora del cierre; Operación Directa (OD) transacción realizada en la bolsa con intervención de un solo corredor.
+CRISIS ECONOMICA:
+Etapa de profundas perturbaciones que caracterizan una situación gravemente depresiva, dentro de un ciclo económico.
+En un sentido amplio, es el conjunto de problemas que se relacionan entre si y que potencian mutuamente sus efectos planteados alrededor de un hecho básico: la reducción en el crecimiento de la producción.
+En un sentido mas estricto, es la fase de la actividad económica que se caracteriza por una reducción brusca de la producción.
+CREDITO:
+Obtención de recursos en el presente sin efectuar un pago inmediato, bajo la promesa de restituirlos en el futuro en condiciones previamente establecidas.
+Pueden ser recursos financieros o referirse a bienes y servicios. El crédito es fundamental en una economía moderna y reviste diversas formas entre las que destacan el crédito de consumo extendido a los individuos para financiar su consumo de bienes; el crédito comercial extendido por los oferentes de materias primas a las empresas o por éstas a los vendedores mayoristas; y el crédito bancario que consiste en préstamos a diversos agentes económicos.
+CUASIDINEROS:
+Se define como los activos que dependiendo de su grado de liquidez podrían considerarse en alguna medida dinero. En Colombia, estos activos son los siguientes: los depósitos de ahorro en el sistema financiero, los certificados a término de los bancos, corporaciones financieras y compañías de financiamiento comercial y los depósitos en las corporaciones de ahorro y vivienda.
+CUENTA CORRIENTE:
+1.	Parte de la Balanza de Pagos que registran las transacciones corrientes de mercaderías y servicios reales y financieros.
+2.	Depósito bancario del que puede retirarse todo o parte contra presentación de cheque.
+CUENTA CORRIENTE:
+Cuenta perteneciente a la Balanza de Pagos, donde se registran sistemáticamente la entrada y salida de divisas de un país con el exterior, por concepto de compra y venta de mercancías y servicios. Además, en ella se consignan las utilidades obtenidas de operaciones extranjeras, intereses y pagos de transferencia. La Cuenta Corriente está conformada por la Balanza Comercial, la Balanza de Servicios y las Transferencias.
+CUENTA DE CAPITALES:
+Cuenta de la Balanza de Pagos usada como contrapartida de la Cuenta
+Corriente. Incluye el flujo monetario que entra y sale del país para inversión, subsidios y préstamos internacionales (públicos y privados). Cuando hay entrada de divisas la cuenta de capitales es superavitaria.
+Por el contrario, si el país presta o invierte en el extranjero esta cuenta será deficitaria.
+CURVA DE LORENZ:
+Curva utilizada para ilustrar la distribución de los ingresos del capital, etc.
+La curva de Lorenz de distribución de ingresos se dibuja en un gráfico, cuyos ejes miden el porcentaje acumulado de los receptores de ingreso y el porcentaje acumulado del ingreso total recibido por un determinado porcentaje de los receptores de ingreso.
+DECLARACION DE RENTA:
+La declaración de renta es un documento que los contribuyentes, presentan a la Dirección de impuestos sobre sus estado de ingresos y egresos en el periodo gravable comprendido entre el primero de enero y el 31 de diciembre del año que corresponda. Además incluye la declaración del patrimonio.
+Tiene por objeto servir de base para la liquidación del impuesto de renta y complementarios.
+DECLARACION TRIBUTARIA:
+Es el documento elaborado por el contribuyente con destino a la
+Administración de Impuestos en la cual da cuenta de la realización de hechos gravados, cuantía y demás circunstancias requeridas para la determinación de su impuesto.
+DECRETO:
+Disposición emanada de la Rama Ejecutiva del Poder Público, con el objeto de desarrollar y cumplir con los deberes y obligaciones asignadas a ésta y especialmente, para la ejecución y aplicación de la Ley.
+DEFICIT:
+Resultado que arroja un balance efectuando el término de un ejercicio que se caracteriza por que existe un saldo correspondiente a egresos que no alcanzaron a ser cubiertos por los ingresos de dicho ejercicio. El resultado inverso, vale decir, si el balance arroja un sobrante de ingresos luego de cubiertos los egresos del ejercicio.
+Se denomina Superávit.
+Monto en que la cantidad ofrecida es menor que la cantidad demandada al precio existente; lo opuesto a excedente.
+DEFICIT FISCAL:
+Es el exceso de los egresos sobre los ingresos, ya sea, del sector público consolidado, del gobierno central o del sector público no financiero.
+DEFLACTOR:
+Elemento numérico que permite convertir a precios constantes una serie que se encuentra inicialmente a precios corrientes. Es común utilizar para este efecto los índices de precios o el cociente entre la serie inicial a precios corrientes y la serie a precios constantes.
+DEMANDA 1:
+Cantidad máxima de un bien o servicio que un individuo o grupo de ellos está dispuesto a adquirir a un determinado precio, por unidad de tiempo. Refleja la voluntad y capacidad económica de adquirir un determinado bien por parte de todas las personas que manifiesta una necesidad capaz de ser satisfecha por el consumo de referido bien. La voluntad de adquirir se expresa en el mercado al pagar un determinado precio que en definitiva, es la expresión del bienestar que el consumo del bien aporta al demandante.
+Pueden definirse diferentes demandas por un mismo bien o servicio. Por ejemplo la demanda de Pedro por Pan; la demanda de la ciudad en que vive Pedro por Pan, la de su país, continente, etc.
+DEMANDA 2:
+Conjunto de mercancías y servicios que los consumidores están dispuestos a adquirir en el mercado, en un tiempo determinado y a un precio dado. El análisis de la demanda parte del supuesto de que todos los factores se mantiene constantes, excepto el precio, y que a medida que cambia el precio, la cantidad demandada por el consumidor también varía.
+DEMOGRAFIA:
+Estudio científico de las poblaciones humanas, especialmente de su tamaño, estructura y desarrollo.
+DEPOSITO:
+En derecho, contrato por el cual una persona recibe una cosa mueble con el encargo de guardarla y restituirla cuando el depositante lo requiera.
+En economía, crédito admitido por un banco a favor de una persona natural o jurídica, en cumplimiento de un contrato de cuenta corriente bancaria.
+El depósito bancario implica solamente la creación de una relación de acreedor y deudor.
+El Banco puede emplear el dinero depositado para conceder préstamos a terceros, con el límite que fijen las normas sobre encaje.
+DEPOSITO CENTRALIZADO DE VALORES (DCV):
+Es una empresa que presta servicios de custodia de valores (instrumentos de renta fija, de intermediación financiera y de renta variable), facilitando las operaciones de transferencia de dichos valores, con el objeto de reducir riesgos, mejorar la eficiencia de las operaciones y colaborar al crecimiento y desarrollo del mercado de capitales nacional. Derechos de opción preferente de suscripción de acciones y de bonos convertibles en acciones de sociedad emisora:
+El derecho preferente de suscripción es inherente a las acciones ordinarias y las preferentes.
+El derecho es esencialmente renunciable y transferible; el accionista que renuncia a su derecho a suscribir las acciones de aumento de capital, o renuncia a suscribir los bonos convertibles en acciones de la sociedad emisora, puede transferir esos der echos dentro del plazo de 30 días contados desde la fecha de inicio de la opción.
+La venta de este derecho genera al accionista un ingreso adicional, en desmedro de su pérdida de participación relativa en el patrimonio social de la empresa.
+DEPOSITOS A LA VISTA:
+Entrega de dinero, títulos o valores a una institución bancaria con el objeto de que se guarden y se regresen mediante la presentación de un documento "a la vista" que ampare dichos bienes. Un ejemplo de depósito a la vista es la cuenta de cheques, en la que el depositante puede girar cheques y retirar fondos sin notificación por adelantado.
+DEPOSITOS EN CUENTA CORRIENTE:
+Son aquellos depósitos en una cuenta bancaria, en la cual pueden hacerse depósitos o de la cual pueden hacerse retiros en cualquier momento y tantas veces como se desee. Se utiliza el término corriente porque ésta es una cuenta a través de la cual el dinero circula o corre constante y libremente.
+DEPRECIACION 1:
+Perdida de valor que experimenta un activo como consecuencia de su uso, del paso del tiempo o por obsolescencia tecnológica. Debido a la depreciación los activos van perdiendo su capacidad de generar ingresos.
+La depreciación puede ser medida en forma precisa sólo al final de la vida útil de los activos, por esto se han ideado varios métodos de cálculo para estimar el monto de la depreciación en cada periodo.
+DEPRECIACION 2:
+En términos cambiarios es la disminución del valor o precio de un bien, debido al aumento de la tasa de cambio bajo un régimen cambiario flexible. En términos contables, la depreciación es una reducción del activo fijo, sea en cantidad, calidad, valor o precio, debida al uso, a la obsolescencia o sólo por el paso del tiempo. La depreciación se mide anualmente, y depende de los factores ya mencionados, así como del precio de compra y la duración estimada del activo.
+DEPRECIACION MONETARIA:
+Bajada de hecho del valor de la moneda nacional en el mercado de cambios en régimen de cambios flotantes.
+DEPRESION:
+Fase del ciclo económico que se caracteriza por un descenso de la demanda agregada, fuerte desempleo y subutilización de la capacidad instalada productiva escasa o nula formación del capital de un nivel de precios que tiende a descender lentamente.
+Periodo amplio de desempleo masivo y exceso de capacidad instalada.
+(No existe aceptada comúnmente en términos cuantitativos).
+DERECHO ADUANERO:
+Impuesto que debe pagarse por la importación o exportación de bienes y servicios.
+Los más comunes son los impuestos tiene muchas modalidades, siendo los más corrientes los derechos advalorem y los derechos específicos. Los primeros se expresan como un porcentaje del valor CIF de los bienes, y los segundos pueden ser de un monto fijo que se cobra de acuerdo a alguna característica física de los bienes, como su peso o medida. Sinónimo de tarifa o arancel.
+DERECHO DE ADUANA:
+Son todos los derechos, emolumentos, impuestos, contribuciones, tasas, gravámenes y todo pago que se fije o exija sobre la importación o exportación de mercancías a territorio nacional o fuera de él. Al igual que toda la clase de derechos de timbre, emolumentos o gravámenes que se exijan o tasen con respecto a los documentos requeridos para la realización de tales transacciones con el exterior, o que en cualquier otra forma tuviera relaciones con tales operaciones.
+Así derechos de Aduana es equivalente a Derechos Importación y Exportación.
+No se considera derechos de aduana los valores correspondientes a las multas o recargos, al precio de los servic0os prestados y al impuesto sobre las ventas que se causaren con ocasión de la transacción con el exterior.
+DESAHORRO:
+Ahorro negativo.
+DESCUENTO:
+Procedimiento de cálculo del valor presente de unos o más pagos futuros, aplicando una tasa de interés.
+En terminología de la banca central, proceso de préstamos a los bancos comerciales.
+Cesión de crédito en virtud del cual un tercero para el acreedor originario, quien pasa a ser subrogado por aquel para el cobro de deudor principal.
+DESEMPLEO:
+Imposibilidad, que tiene las personas que desean trabajar de poder obtener un empleo.
+En un sentido más general, subutilización de cualquier recurso productivo.
+Parte de la fuerza de trabajo que estando en condiciones de trabajar no se encuentra ocupada en actividades productoras de bienes y servicios. Incluye a las personas cesantes y a las que buscan trabajo por primera vez.
+Sinónimo de desocupación.
+La tasa de desempleo se puede calcular de diversas maneras, pero lo más usual se expresa como porcentaje de la fuerza de trabajo. En función de las causas y la naturaleza del desempleo se han planteado diversas clasificaciones.
+Las más usadas son: Desempleo funcional, desempleo cíclico y desempleo estructural.
+Desempleo voluntario y desempleo involuntario.
+DESEQUILIBRIO:
+Situación del mercado o de la economía en que las fuerzas económicas tienden a un cambio.
+Por ejemplo, si el mercado está en desequilibrio a causa de un solo producto, la oferta y la demanda no son iguales.
+DESINFLACION:
+Resultado de una estrategia encaminada a reducir el nivel general de precios mediante el aumento del poder adquisitivo del dinero.
+DESINTERMEDIACION:
+Fenómeno derivado del desarrollo de los mercados de capitales, caracterizado por las relaciones directas entre los agentes con necesidad de recibir financiación y los prestamistas. En el nivel bancario, la supresión de los intermedi arios ha permitido al conjunto de agentes económicos, y no sólo a los bancos, endeudarse y prestar del corto al largo plazo. El contacto directo del ahorrador con quien utiliza su ahorro permite el aumento de la flexibilidad en los plazos, la liberalización de las negociaciones y de las comisiones de garantía y el desarrollo de nuevas fórmulas.
+DESPACHO:
+Es el conjunto de operaciones aduaneras encaminadas a la aplicación de un régimen aduanero, previo cumplimiento de las formalidades establecidas en las disposiciones legales.
+DESPILFARRO:
+Término con el que se identifica una situación en al cual se utiliza en forma incompleta o incorrecta los recursos productivos, con los resultados de no poder satisfacer adecuadamente las necesidades humanas. Es desperdiciar la utilidad que podemos derivar de la producción cuando por torpeza, ignorancia o incompetencia, la utilizamos o aplicamos mal.
+DEUDA:
+En un sentido amplio, es la obligación que tiene una persona natural o jurídica, respecto a otra, de dar, hacer o no nacer alguna cosa. Una acepción más restringida del término se refiere a la obligación contraída por una persona natural o jurídica, organización o país, para con otra similar y que normalmente se estipula en términos de algún medio de pago o activo.
+Desde el punto de vista de una empresa, una deuda se genera por la compra de bienes activos, por servicios recibidos, por gastos o préstamos, y pasa a formar parte del pasivo de la misma.
+DEUDA EXTERNA:
+Créditos externos recibidos, tanto por el sector público como el sector privado para financiamiento de proyectos internos. Generalmente, la deuda externa se paga fuera del país y en moneda extranjera. La deuda externa se conoce como inversión extranjera indirecta o de cartera, ya que el capital extranjero ingresa al país as través de extensiones de créditos.
+DEUDA INTERNA:
+Es el total de los créditos aprobados, tanto al sector público como al privado, que se generan dentro de un país. A diferencia de la deuda externa, la interna se paga en el país y en la moneda nacional.
+DEUDA PUBLICA:
+Nivel de préstamos adquiridos por el gobierno cuando sus ingresos y sus gastos difieren. De otra forma, el nivel de deuda pública es igual al nivel de deuda pública anterior más el monto de intereses que tiene que pagar por la deuda ya existente, más la diferencia entre los ingresos y los gastos del gobierno. O sea, más los impuestos menos el gasto y la inversión. Este es un mecanismo que permite financiar los déficit fiscales, ya sea a través de intermediarios financieros del país o extranjeros.
+DEVALUACION 1:
+Disminución en el valor de la moneda nacional respecto de alguna(s) moneda extranjera.
+Los tipos de cambio expresan la relación de valore entre las monedas de distintos países, de modo que la devaluación se manifiesta como un aumento del tipo de cambio.
+Vale decir, se requieren más unidades monetarias nacionales para comprar una unidad de moneda extranjera.
+Antónimo de revaluación.
+Algunos economistas utilizan el término devaluación para referirse a un aumento del tipo de cambio bajo un sistema de tipo de cambio fijo, reservando el término depreciación para referirse al aumento de valor de la moneda extranjera respecto a la nacional bajo un sistema de tipo de cambio flexible.
+En Economía Internacional, reducción del valor de paridad de una moneda.
+DEVALUACION 2:
+Disminución del valor de la moneda nacional en función de las monedas de otras naciones, generado por el aumento de la tasa de cambio. Una devaluación desestimula las importaciones por su encarecimiento, y por el contrario, incentiva las exportaciones por su abaratamiento. En países que tienen un mercado de cambio controlado, la devaluación es una decisión que es tomada por el gobierno como consecuencia de, o para enfrentar una situación económica determinada. Sin embargo, la moneda de un país cuyo tipo de cambio es totalmente libre se devalúa cuando en dicho mercado haya una mayor demanda que oferta de divisas extranjeras. Bajo este régimen cambiario a la devaluación se le conoce como depreciación.
+DEVENGAR:
+Acto de adecuarse algo, aunque no haya transcurrido el plazo que haga exigible la deuda.
+Se usa especialmente en el caso de los intereses, que se adeudan según el tiempo transcurrido, aunque el deudor pueda no estar obligado, por estar pendiente el plazo de la deuda.
+Derecho adquirido que permite obtener retribución por servicios personales o préstamos otorgados a terceros.
+Cualquier renta o ingreso, como intereses o alquileres, se devengan. En contabilidad, se denomina el acto de registrar los ingresos o egresos en el momento en que nacen como derechos u obligaciones.
+DICOTOMIA:
+Forma de división o clasificación en el cual el género se divide en especiales, para cada paso de acuerdo con la posesión o la carencia, de un conjunto de diferencias.
+Las dos especies de cada paso son, entonces, exhaustivas y mutuamente excluyentes.
+DINERO:
+Medio de cambio (pago) de aceptación generalizada; vale decir es cualquier cosa aceptada por todas las personas en pago de bienes y servicios.
+Las funciones más importantes del dinero son las del medio de cambio, depósito de valor y unidad de cuenta.
+El dinero en su función de medio de cambio facilita el intercambio, o sea, evita la principal dificultad del trueque que es la doble coincidencia de voluntades para realizar una transacción.
+Para ser un medio de cambio eficiente debe poseer algunas características: ser divisible, fácilmente transportable, de fácil aceptación y difícil de falsificar.
+En su función de depósito de valor, permite separar los actos de compra y venta, conservando a través del tiempo el valor de los activos que han sido convertidos en dinero.
+Vale decir, es una forma sencilla de acumular riqueza. No obstante, las fluctuaciones frecuentes del nivel de precios reducen la utilidad del dinero como depósito de riqueza.
+En su función de unidad de cuenta el dinero permite disponer de una medida o patrón homogéneo para expresar el valor o los precios de todos los bienes.
+Para esta función no necesariamente debe tener existencia física real, sino sólo actuar como equivalente general de valor de todos los bienes y servicios.
+Para propósitos prácticos se acostumbra a dar diferentes definiciones de dinero, cuya amplitud y empleo dependerán del problema concreto que se quiera analizar.
+Las definiciones operativas más comunes de dinero (M) son: M1 = billetes y monedas en circulación + depósitos a la vista.
+M2 = M1 + depósitos de ahorro y/o plazo + UPAC.
+Cosa utilizada de manera generalizada para la compra de bienes y servicios, frecuentemente M2.
+DINERO ACTIVO:
+Dinero en circulación.
+DINERO EN CIRCULACION:
+La plata en poder del público que, al ser utilizada para consumo, presiona la ley de oferta y demanda y por ahí derecho la inflación.
+DINERO FACIL:
+Dinero que puede obtenerse a bajos tipos de interés y con relativa facilidad, a consecuencia de la oferta de los excesos de reservas de los bancos.
+DINERO LEGAL:
+Cualquier tipo de dinero que las leyes consideren legítimo para el pago de las deudas a un acreedor, e cual debe aceptarlo para la cancelación de la deuda, salvo que el contrato entre las partes especifiquen que deba de utilizarse otro tipo de dinero.
+DINERO NEGRO:
+Renta que no se declara para efectos fiscales debido a su origen ilegal.
+DIVIDENDO:
+Parte del beneficio neto de una sociedad oficialmente declarado por la asamblea general para ser distribuido entre los accionistas. El dividendo se paga como una cantidad fija por acción poseída por los accionistas.
+DIVISA:
+Moneda extranjera que utilizan los residentes de un país para efectuar las transacciones económicas internacionales.
+Para cumplir con este fin, dichas monedas como medios de pago deben gozar de aceptación internacional generalizada, es decir, deben ser monedas duras.
+Sólo las monedas de algunos países cumplen con este requisito. También existen otros medios internacionales de pago como son el Oro y los derechos especiales de Giro. La moneda de otro país.
+DUMPING 1:
+Para una empresa, es el hecho de vender su producción a precio inferior al costo para competir eficazmente en el mercado. Se utiliza como sinónimo de competencia desleal. Se considera fundamentalmente como una acción sobre los precio s de exportación, por lo que se lleva a cabo por el Estado (a través de subvenciones), o con su apoyo, y por grupos de empresas.
+DUMPING 2:
+Práctica de comercio desleal que consiste en vender en un país por debajo de los costos de producción. Esta figura también se da cuando intencionadamente los productores veden más barato al exterior que en su país.
+DUOPOLIO:
+Situación de mercado en la que hay sólo dos vendedores.
+Es un caso especial de oligopolio.
+DTF:
+La DTF, es una tasa de interés calculada como un promedio ponderado semanal por monto, de las tasas promedios de captación diarias de los CDTs a 90 días, pagadas por los bancos, corporaciones financieras, de ahorro y vivienda y compañías de financiamiento comercial. La calcula el Banco de la República con la información provista por la
+Superintendencia Bancaria hasta el día anterior. La DTF tiene vigencia de una semana.
