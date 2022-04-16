@@ -33,7 +33,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       resizeToAvoidBottomInset: false,
       appBar: AppBar(
-        title: const Text('Autocompletar'),
+        title: const Text('Laboratorio Diccionario de Datos'),
       ),
       body: Column(
         // ignore: prefer_const_literals_to_create_immutables
