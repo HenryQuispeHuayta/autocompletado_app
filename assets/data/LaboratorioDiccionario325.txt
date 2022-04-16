@@ -1,58 +1,58 @@
 ﻿INF325
-ACTIVO CIRCULANTE: 
-En ocasiones "capital circulante". Suma de los activos disponibles (finan cieros, deudores y existencias). 
-ACTIVO FIJO TOTAL: 
+ACTIVO CIRCULANTE:
+En ocasiones "capital circulante". Suma de los activos disponibles (financieros, deudores y existencias).
+ACTIVO FIJO TOTAL:
 Incluye todos los bienes que han sido adquiridos para usarlos en la ope ración social y sin propósito de venderlos o ponerlos en circulación. 
-ACTIVO FINANCIERO: 
+ACTIVO FINANCIERO:
 Nombre genérico que se le da a las inversiones mobiliarias (acciones, obligaciones , bonos, etc). 
 ACTIVOS, OTROS:
-Son aquellos recursos y activos de la empresa no clasificados en los rubros anteriores, tales como: 
+Son aquellos recursos y activos de la empresa no clasificados en los rubros anteriores, tales como.
 inversiones en compañías afiliadas, derechos en sociedades de perso nas, deudores a largo plazo, activos intangibles, fluctuación de acciones y amortizaciones. 
-ACTIVO NETO: 
+ACTIVO NETO:
 Conjunto de capitales que pertenecen propiamente a la empresa, es decir, el importe en dinero que se recibiría al vender todo el activo. 
-ACTIVO SUBYACENTE: 
+ACTIVO SUBYACENTE:
 Es el que sirve de base para una opción o contratos de futuro. 
-ACTIVOS TOTALES: 
+ACTIVOS TOTALES:
 Representa la suma total de los rubros del activo de la empresa. 
-ACTIVO CIRCULANTE TOTAL: 
+ACTIVO CIRCULANTE TOTAL:
 Incluye aquellos activos y recursos de la empresa que serán realizados, vendidos o consumidos dentro del plazo de un año a contar de la fecha de los estados financieros. 
-AHORRO: 
+AHORRO:
 Parte disponible de la renta (presente), que no se consagra a la compra inmediata o próxima de bienes de consumo. 
-ACCION: 
+ACCION:
 Título que representa los derechos de un socio sobre una parte del capi tal de una empresa organizada en forma de sociedad. La posesión de este documento le otorga al socio capitalista el derecho a percibir una parte proporcional de las ganancias anuales de la sociedad. Las accio nes pueden ser nominativas o al portador, ordinarias o preferentes. 
-ACCIONISTA: 
+ACCIONISTA:
 Propietario de una o más acciones de una sociedad anónima o en comandita por acciones. 
-ACEPTACIONES BANCARIAS: 
+ACEPTACIONES BANCARIAS:
 Operación comercial en la cual el vendedor que se denomina "beneficia rio" ve garantizado por una entidad financiera denominada "aceptante", el pago de una letra de cambio girada por el comprador para pagar las mercancías adquiridas. La entidad financiera está comprometida, en pri mera instancia, a pagar el 100% de la letra a su vencimiento. 
-ACTIVOS DE RENTA FIJA: 
-Títulos que permiten conocer la rentabilidad de la inversión antes del momento de la redención, ya que este monto no depende del desempe ño de la entidad emisora. Ejemplo: bonos. 
-ACTIVOS DE RENTA VARIABLE: 
-Títulos valores que por sus características solo permiten conocer la ren tabilidad de la inversión en el momento de su redención, dependiendo del desempeño de la entidad emisora entre otras. Ejemplo: Acciones. 
-ACTIVOS FIJOS: 
+ACTIVOS DE RENTA FIJA:
+Títulos que permiten conocer la rentabilidad de la inversión antes del momento de la redención, ya que este monto no depende del desempe ño de la entidad emisora. Ejemplo. bonos.
+ACTIVOS DE RENTA VARIABLE:
+Títulos valores que por sus características solo permiten conocer la ren tabilidad de la inversión en el momento de su redención, dependiendo del desempeño de la entidad emisora entre otras. Ejemplo. Acciones.
+ACTIVOS FIJOS:
 Activos tangibles o intangibles que se presume son de naturaleza per manente porque son necesarios para las actividades normales de una compañía y no serán vendidos o desechados en el corto plazo, ni por razones comerciales. 
-ACTIVO FIJO: 
+ACTIVO FIJO:
 Representa los recursos de naturaleza relativamente duradera, que no están destinados a la venta dentro del giro ordinario del negocio. 
-ACTIVO CORRIENTE: 
+ACTIVO CORRIENTE:
 Son los recursos que se pueden convertir en efectivo, vender o consumir durante un ciclo normal de operaciones contables correspondientes a un año. 
-ACTIVO FINANCIERO: 
+ACTIVO FINANCIERO:
 Cualquier título de contenido patrimonial, crediticio o representativo de mercancías. 
-ACTIVO FISICO: 
+ACTIVO FISICO:
 Todo objeto o bien que posee una persona natural o jurídica, tales como maquinarias, equipos, edificios, muebles, vehículos, materias primas, productos en proceso, herramientas, etc. 
-ACTIVO REAL: 
+ACTIVO REAL:
 Sinónimo de activo físico. 
-ACTIVO LIQUIDO: 
+ACTIVO LIQUIDO:
 Activo que puede transformarse rápidamente en dinero sin pérdida de valor. 
 Mientras más rápido se puede convertir un activo en dinero, se dice que es más líquido o que tiene mayor grado de liquidez. 
 El Dinero es el activo más líquido de todos. 
-ACTIVO INTANGIBLE: 
-Esta categoría incluye: a. Bienes económicos inmateriales de propiedad de una persona, empresa u organización, tales como patentes, marcas, derechos de llave, etc. 
+ACTIVO INTANGIBLE:
+Esta categoría incluye. a. Bienes económicos inmateriales de propiedad de una persona, empresa u organización, tales como patentes, marcas, derechos de llave, etc.
 b. El Derecho de uso o de usufructo que posee una persona, empresa u organización sobre bienes económicos, materiales, derecho que no puede ser transferido. 
-ADUANA: 
+ADUANA:
 Servicio gubernamental responsable de la valuación y cobranza de los derechos e impuestos por importaciones y exportaciones, y de la aplica- 
 ción de otras leyes y reglamentos que se aplican a la importación, trán sito y exportación de artículos. 
 AHORRO 1:
 Parte del ingreso disponible presente de una gente económico que no es gastado en consumo, requiere suprimir un consumo actual y diferirlo para algún momento en el futuro.
-El ahorro puede adoptar las siguientes formas: a. Acumulado de saldos monetarios o dinero (atesoramiento).
+El ahorro puede adoptar las siguientes formas. a. Acumulado de saldos monetarios o dinero (atesoramiento).
 b.	Acumulado de activos financieros o de activos reales.
 c.	Acumulado de capital humano.
 Un agente económico puede emplear los flujos de recursos ahorrados en mantener o aumentare su nivel de consumo de bienes o servicios, en mantener la capacidad de generar ingresos de sus actividades o factores productivos, o en aumentar esa capacidad (inversión).
@@ -63,7 +63,7 @@ Conjunto de activos rentables emitidos, tanto por el sistema financiero como por
 AMORTIZACION:
 Reducciones graduales de la deuda a través de pasos periódicos sobre el capital prestado.
 Recuperación de los fondos invertidos en un activo de una empresa.
-O también puede definirse como: la devolución de una deuda o de un capital tomado en préstamo (principal) más los intereses correspondientes si ellos existen. La extinción de la deuda puede hacerse de una sola vez o mediante pagos parciales por periodos de tiempo previamente establecidos.
+O también puede definirse como. la devolución de una deuda o de un capital tomado en préstamo (principal) más los intereses correspondientes si ellos existen. La extinción de la deuda puede hacerse de una sola vez o mediante pagos parciales por periodos de tiempo previamente establecidos.
 ANTIDUMPING:
 Acción encaminada a proteger los mercados interiores de la competencia desde el exterior.
 AÑO BASE:
@@ -100,7 +100,8 @@ BALANCE CONTABLE:
 Estado contable que muestra el total de activos, el total de pasivos y el patrimonio de una empresa en un momento del tiempo.
 La hoja de balance a su lado derecho muestra los activos, y en su lado izquierdo los pasivos y el patrimonio, debiendo cumplirse siempre la misma igualdad.
 ACTIVOS = PASIVOS + PATRIMONIO.
-Un balance es entonces un demostrativo contable del estado patrimonial de la situación económica financiera de una empresa, siempre referente al fin de un ejercicio fiscal BALANZADE PAGOS:
+Un balance es entonces un demostrativo contable del estado patrimonial de la situación económica financiera de una empresa, siempre referente al fin de un ejercicio fiscal
+BALANZADE PAGOS:
 Cuenta del sector externo del sistema de Cuentas Nacionales, expresada en dólares, donde se registran las transacciones económicas de un país con el exterior. Entre estas se encuentran las transacciones de compra y venta de mercancías, los movimientos de capital y las transferencias. Además, sintetiza los cambios en la posición financiera de los residentes de un país frente a los no residentes. La Balanza de Pagos está compuesta por la Cuenta Corriente, por la Cuenta de Capitales, el movimiento en las Reservas Internacionales y un renglón donde se anotan los errores y omisiones.
 BALANZA DE SERVICIOS:
 Registro sistemático de la entrada y salida de divisas de un país por concepto de prestación de servicios de los residentes del país a los extranjeros, y de estos a los nacionales. La Balanza de Servicios hace parte de la Cuenta Corriente, y en ella se incluyen como servicios los ingresos netos precedentes del exterior (embarques, viajes, dividendos e intereses provenientes de inversiones directas o de cartera entre otros).
@@ -108,7 +109,7 @@ BALANCE GENERAL:
 Denominado también estado de situación financiera. Se trata de un documento que muestra el valor y la naturaleza de los recursos económicos de una empresa, así como los intereses conexos de los acreedores y la participación de los dueños en una fecha determinada.
 BANCO:
 Institución que realiza labores de intermediación financiera, recibiendo dinero de unos agentes económicos (depósitos), para darlo en préstamo a otros agentes económicos (créditos).
-La ley define las operaciones que puede realizar un banco y prohíbe el uso de esta denominación a otras instituciones o empresas. Los principales tipos de bancos son: bancos comerciales, bancos de fomento y bancos hipotecarios.
+La ley define las operaciones que puede realizar un banco y prohíbe el uso de esta denominación a otras instituciones o empresas. Los principales tipos de bancos son. bancos comerciales, bancos de fomento y bancos hipotecarios.
 BANCO COMERCIAL:
 Institución que se dedica al negocio de recibir dinero en depósito y darlo a su vez en préstamo, sea en forma de mutuo, de descuento de documentos o en cualquier otra forma. Se consideran además todas las operaciones que natura l y legalmente constituyen el giro bancario.
 BANDA CAMBIARIA:
@@ -128,9 +129,9 @@ El beneficio neto es igual al beneficio bruto menos los gastos de depreciación,
 Este último es sinónimo de ingreso neto.
 El concepto económico de beneficio equivale a la fracción del producto que queda después de deducir los pagos al factor capital (intereses), los pagos al factor tierra (rentas) y los pagos al factor trabajo (salarios). El beneficio debe ser un monto suficiente para inducir a un empresario a permanecer en la misma actividad; es decir, es equivalente al costo de oportunidad y permanecer en la actividad.
 BID:
-Banco Interamericano de Desarrollo BIEN:
+Banco Interamericano de Desarrollo BIEN.
 El concepto de bien en economía es muy amplio y no se limita a objetos tangibles.
-No obstante hay que distinguir 2 acepciones del término: a. Razones prácticas restringen el uso del concepto refiriéndolo a todo objeto corporal o tangible que satisface alguna necesidad, sea esta individual o colectivo a través de su uso o consumo.
+No obstante hay que distinguir 2 acepciones del término. a. Razones prácticas restringen el uso del concepto refiriéndolo a todo objeto corporal o tangible que satisface alguna necesidad, sea esta individual o colectivo a través de su uso o consumo.
 De esta forma se puede hablar los bienes como algo distinto de los servicios, a pesar de que los últimos también satisfacen necesidades y contribuyen al bienestar.
 b. El concepto teórico se refiere a cualquier cosa, tangible o intangible, que satisfaga alguna necesidad o que contribuya al bienestar de los individuos.
 BIEN DURADERO:
@@ -161,7 +162,7 @@ BURGUESIA:
 Antes de Marx el término se uso para nombrar a la clase mercantil de cualquier país.
 El marxismo se adueñó del término para referirse a la clase de todos aquellos miembros de la sociedad que poseen los medios de producción, incluida la tierra.
 CAJA AGRARIA:
-La caja es una entidad que además de apoyar económicamente a los sectores agrícola, industrial y minero, cumple una importante labor social y educativa a través de programas específicos de transferencia tecnológica apropiada a su condición empresarial: subsidio familiar para los trabajadores del sector rural y otros sectores de la economía nacional, actuando como caja de compensación.
+La caja es una entidad que además de apoyar económicamente a los sectores agrícola, industrial y minero, cumple una importante labor social y educativa a través de programas específicos de transferencia tecnológica apropiada a su condición empresarial. subsidio familiar para los trabajadores del sector rural y otros sectores de la economía nacional, actuando como caja de compensación.
 CALIFICACION DE RIESGO DE CORTO PLAZO:
 Análisis que tiene como objetivo el evaluar en el corto plazo, la capacidad de un establecimiento especializado en una actividad comercial o industrial definida (venta de alimentos, vestuario, vehículos, etc.) para servir adecuadamente sus créditos.
 CANJE DE CHEQUE:
@@ -249,7 +250,7 @@ Organismo creado por el congreso de la República mediante la Ley No.
 COMISIONISTA DE BOLSA:
 Es la persona legalmente autorizada para realizar las transacciones de compra y venta de valores que se realizan en la rueda de Bolsa.
 COMMODITIES:
-Bienes primarios que se transan internacionalmente. Por ejemplo: granos, metales, productos energéticos (petróleo, carbón, etc.) y suaves (café, algodón, etc.).
+Bienes primarios que se transan internacionalmente. Por ejemplo. granos, metales, productos energéticos (petróleo, carbón, etc.) y suaves (café, algodón, etc.).
 COMPAÑIA DE SEGUROS:
 Sociedad anónima que tiene por objeto exclusivo el giro de los seguros y las actividades que sean afines y complementarias de éste. Se dividen en seguros generales y de vida.
 COMPAÑIAS DE FINANCIAMIENTO COMERCIAL:
@@ -284,9 +285,9 @@ Alemania Occidental, Italia, Holanda y Luxemburgo al que posteriormente se adhir
 Su objetivo inicial era crear una Unión Aduanera o Mercado Común, para lo cual se comenzó eliminando los obstáculos al comercio de bienes y servicios entre sus miembros, estableciendo una política de comercio externo.
 Persigue también la creación de una unión económica en la exista libre desplazamiento de bienes y servicios, capital y trabajo. Bajo el Tratado se formó el banco Europeo de Inversiones que se ocupa de fomentar el desarrollo de las regiones más atrasadas, y el Fondo Social Europeo que se encarga de problemas de empleo entre otros. Se consulto un plazo de transición de 12 años para el establecimiento del mercado común, dividido en tres etapas de cuatro años cada una para la abolición, arancel externo común, objetivos que se alcanzaron en 1968, antes de la fecha inicialmente prevista.
 En otros aspectos, como el establecimiento de políticas agrícolas y de transporte comunes, las CE, ha tenido dificultades debido a la oposición de intereses de algunos países miembros.
-En los últimos años se ha constituido como un bloque comercial de los más importantes en el mundo, los últimos países en integrar Autoliquidación de Aportes cuerdo son : España y Portugal.
+En los últimos años se ha constituido como un bloque comercial de los más importantes en el mundo, los últimos países en integrar Autoliquidación de Aportes cuerdo son España y Portugal.
 COMUNISMO:
-"Un sistema social, sin clases, con una forma de propiedad pública de los medios de producción y toral igualdad para todos los miembros de la sociedad y donde el gran principio : de cada uno según su capacidad, a cada uno según necesidades", será implantado (22o congreso del P.C.S).
+"Un sistema social, sin clases, con una forma de propiedad pública de los medios de producción y toral igualdad para todos los miembros de la sociedad y donde el gran principio de cada uno según su capacidad, a cada uno según necesidades", será implantado (22o congreso del P.C.S).
 CONCILIACION BANCARIA:
 Proceso Sistemático de comparación entre los ajustes contable de una cuenta corriente realizada por el banco y la cuenta de bancos correspondientes en la contabilidad de una empresa, con una explicación de las diferencias encontradas.
 CONSUMIDOR:
@@ -297,10 +298,11 @@ Consumo es la utilización de bienes y servicios para nuestra satisfacción y la
 CONSUMO 2:
 Acto final del proceso económico, que consiste en la utilización personal y directa de los bienes y servicios productivos para satisfacer necesidades humanas. El consumo puede ser tangible (consumo de bienes) o intangible (consumo de servicios). Además, se puede clasificar de acuerdo a quien realice el acto en privado y pública. El consumo privado es el realizado por las familias y las empresas, y el público es hecho por el gobierno.
 CONTABILIDAD:
-Es un sistema de información basado en el registro, clasificación, medición y resumen de cifras significativas que expresadas básicamente en términos monetarios, muestra el estado de las operaciones y transacciones realizadas por un ente económico contable. CONTINGENTES:
+Es un sistema de información basado en el registro, clasificación, medición y resumen de cifras significativas que expresadas básicamente en términos monetarios, muestra el estado de las operaciones y transacciones realizadas por un ente económico contable.
+CONTINGENTES:
 En comercio internacional, un método para proteger la industria nacional de la competencia exterior o para reducir la presión en la balanza de pagos limitando las importaciones. Con fines proteccionistas, el contingente es más seguro que el arancel o tarifa en sus efectos sobre la cantidad de importaciones.
 CONTRAPARTIDAS DE LA MASA MONETARIA:
-Conjunto de deudas debidas al sistema bancario, en contrapartida de las cuales se crea moneda. Se distinguen tres tipos:
+Conjunto de deudas debidas al sistema bancario, en contrapartida de las cuales se crea moneda. Se distinguen tres tipos.
 las operaciones sobre oro y divisas, que corresponden a la creación de dinero en los pagos al extranjero; las operaciones de deudas sobre el tesoro público, que corresponden a la creación de moneda para financiar parte del déficit presupuestario, y las operaciones de crédito a la economía, que corresponden a la financiación monetaria del cr& eacutedito. Este tipo de creación monetaria es la fuente principal del incremento de la masa monetaria.
 CONTRATO 1:
 Es un acto por el cual una parte se obliga para con otra dar, hacer o no hacer, alguna cosa.
@@ -343,18 +345,19 @@ COSTOS DE EXPLOTACION:
 Costo de los productos vendidos que se determine de acuerdo con el sistema de costos seguido por la empresa.
 COSTOS INDIRECTOS:
 Costos normalmente de difícil identificación o resultado de bienes y servicios aplicables a la actividad en general.
-Incluyen costos de operaciones de manufacturas (mantenimiento, gastos generales, etc.) COTIZACIÓN:
-Precio registrado en una Bolsa cuando se realiza una negociación de valores, o también expresión de uso bursátil para señalar el valor de acciones y otros instrumentos que se venden a través de bolsas de comercio. La cotización puede ser:
+Incluyen costos de operaciones de manufacturas (mantenimiento, gastos generales, etc.)
+COTIZACIÓN:
+Precio registrado en una Bolsa cuando se realiza una negociación de valores, o también expresión de uso bursátil para señalar el valor de acciones y otros instrumentos que se venden a través de bolsas de comercio. La cotización puede ser.
 Transacción (T) último precio de venta en transacciones hechas en bolsas el día de cierre; Nominal (N) precio de transacción anterior al día de cierre, si posteriormente no ha habido ventas, ni ofertas, a precio diferente; Vendedor (V) precio al cual los instrumentos están siendo ofrecidos a la hora del cierre; Comprador (C) precios al cual existe oferta de compra a la hora del cierre; Operación Directa (OD) transacción realizada en la bolsa con intervención de un solo corredor.
 CRISIS ECONOMICA:
 Etapa de profundas perturbaciones que caracterizan una situación gravemente depresiva, dentro de un ciclo económico.
-En un sentido amplio, es el conjunto de problemas que se relacionan entre si y que potencian mutuamente sus efectos planteados alrededor de un hecho básico: la reducción en el crecimiento de la producción.
+En un sentido amplio, es el conjunto de problemas que se relacionan entre si y que potencian mutuamente sus efectos planteados alrededor de un hecho básico la reducción en el crecimiento de la producción.
 En un sentido mas estricto, es la fase de la actividad económica que se caracteriza por una reducción brusca de la producción.
 CREDITO:
 Obtención de recursos en el presente sin efectuar un pago inmediato, bajo la promesa de restituirlos en el futuro en condiciones previamente establecidas.
 Pueden ser recursos financieros o referirse a bienes y servicios. El crédito es fundamental en una economía moderna y reviste diversas formas entre las que destacan el crédito de consumo extendido a los individuos para financiar su consumo de bienes; el crédito comercial extendido por los oferentes de materias primas a las empresas o por éstas a los vendedores mayoristas; y el crédito bancario que consiste en préstamos a diversos agentes económicos.
 CUASIDINEROS:
-Se define como los activos que dependiendo de su grado de liquidez podrían considerarse en alguna medida dinero. En Colombia, estos activos son los siguientes: los depósitos de ahorro en el sistema financiero, los certificados a término de los bancos, corporaciones financieras y compañías de financiamiento comercial y los depósitos en las corporaciones de ahorro y vivienda.
+Se define como los activos que dependiendo de su grado de liquidez podrían considerarse en alguna medida dinero. En Colombia, estos activos son los siguientes. los depósitos de ahorro en el sistema financiero, los certificados a término de los bancos, corporaciones financieras y compañías de financiamiento comercial y los depósitos en las corporaciones de ahorro y vivienda.
 CUENTA CORRIENTE:
 1.	Parte de la Balanza de Pagos que registran las transacciones corrientes de mercaderías y servicios reales y financieros.
 2.	Depósito bancario del que puede retirarse todo o parte contra presentación de cheque.
@@ -434,7 +437,7 @@ En un sentido más general, subutilización de cualquier recurso productivo.
 Parte de la fuerza de trabajo que estando en condiciones de trabajar no se encuentra ocupada en actividades productoras de bienes y servicios. Incluye a las personas cesantes y a las que buscan trabajo por primera vez.
 Sinónimo de desocupación.
 La tasa de desempleo se puede calcular de diversas maneras, pero lo más usual se expresa como porcentaje de la fuerza de trabajo. En función de las causas y la naturaleza del desempleo se han planteado diversas clasificaciones.
-Las más usadas son: Desempleo funcional, desempleo cíclico y desempleo estructural.
+Las más usadas son. Desempleo funcional, desempleo cíclico y desempleo estructural.
 Desempleo voluntario y desempleo involuntario.
 DESEQUILIBRIO:
 Situación del mercado o de la economía en que las fuerzas económicas tienden a un cambio.
@@ -477,13 +480,13 @@ DINERO:
 Medio de cambio (pago) de aceptación generalizada; vale decir es cualquier cosa aceptada por todas las personas en pago de bienes y servicios.
 Las funciones más importantes del dinero son las del medio de cambio, depósito de valor y unidad de cuenta.
 El dinero en su función de medio de cambio facilita el intercambio, o sea, evita la principal dificultad del trueque que es la doble coincidencia de voluntades para realizar una transacción.
-Para ser un medio de cambio eficiente debe poseer algunas características: ser divisible, fácilmente transportable, de fácil aceptación y difícil de falsificar.
+Para ser un medio de cambio eficiente debe poseer algunas características. ser divisible, fácilmente transportable, de fácil aceptación y difícil de falsificar.
 En su función de depósito de valor, permite separar los actos de compra y venta, conservando a través del tiempo el valor de los activos que han sido convertidos en dinero.
 Vale decir, es una forma sencilla de acumular riqueza. No obstante, las fluctuaciones frecuentes del nivel de precios reducen la utilidad del dinero como depósito de riqueza.
 En su función de unidad de cuenta el dinero permite disponer de una medida o patrón homogéneo para expresar el valor o los precios de todos los bienes.
 Para esta función no necesariamente debe tener existencia física real, sino sólo actuar como equivalente general de valor de todos los bienes y servicios.
 Para propósitos prácticos se acostumbra a dar diferentes definiciones de dinero, cuya amplitud y empleo dependerán del problema concreto que se quiera analizar.
-Las definiciones operativas más comunes de dinero (M) son: M1 = billetes y monedas en circulación + depósitos a la vista.
+Las definiciones operativas más comunes de dinero (M) son. M1 = billetes y monedas en circulación + depósitos a la vista.
 M2 = M1 + depósitos de ahorro y/o plazo + UPAC.
 Cosa utilizada de manera generalizada para la compra de bienes y servicios, frecuentemente M2.
 DINERO ACTIVO:
